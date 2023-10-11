@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=180&section=header&text=Kim's%20GIT&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
+
+## Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kky98&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kky98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kky98)](https://solved.ac/kky98)
 <!--
 **kky98/kky98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
