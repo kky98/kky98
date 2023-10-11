@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=180&section=header&text=Kim's%20GIT&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kky98&show_icons=true&theme=radical)
 <!--
 **kky98/kky98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
