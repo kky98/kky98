@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/c-00B265?style=for-the-badge&logo=c&logoColor=white">  
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
+  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
   <img src="https://img.shields.io/badge/solidity-2C4F7C?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">  
   
