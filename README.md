@@ -38,23 +38,24 @@
   
   <br>
   <h2>💾DataBase 💾</h2>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/oracle-3B00B9?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> 
     <br>
  <h2>🛠️Development tools 🛠️</h2>
 
-
-  <img src="https://img.shields.io/badge/spyderide-FF0000?style=for-the-badge&logo=spyderide&logoColor=black">
-   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black">
-   <img src="https://img.shields.io/badge/pycharm-FFFC00?style=for-the-badge&logo=pycharm&logoColor=black">
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+ <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/intellijidea-3B00B9?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-FFFC00?style=for-the-badge&logo=pycharm&logoColor=black">
+ <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black">
+ <br>
+  <img src="https://img.shields.io/badge/spyderide-FF0000?style=for-the-badge&logo=spyderide&logoColor=black">  
    <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"> 
-  <br>
-  <img src="https://img.shields.io/badge/intellijidea-3B00B9?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
-  <img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=black">
+  <img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
   
   <br>
   <h2>🖥️ OS 🖥️</h2>
