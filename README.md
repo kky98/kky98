@@ -1,17 +1,12 @@
+<div align= "center">
+  <h1 style="font-size: 40px;">똥꼬 발랄 규영이의 IT개발자 여정</h1>
+</div>
 <div align="center">
+<img width="80%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github;Have+a+nice+day!!)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚕🚙&fontAlign=70)
 
-<br />
-<div align="center">
-  <p>
-   <h2> 반갑습니다</h2>
-   창의적이고 유연한 역량을 갖추기 위한<br>
-   ✍️규영's github✍️<br>
-  </p>
-</div>
-<hr>
 <div style="text-align: center;">
   <h1 style="font-size: 40px;">📚 STACKS 📚</h1>
 </div>
