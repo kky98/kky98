@@ -75,10 +75,12 @@
   <br>
 </div>
 
-## Stats
-
+## 📈Stats📈
+<div style="text-align: center;">
+  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kky98)](https://solved.ac/kky98)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kky98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <p>
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=kky98&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
