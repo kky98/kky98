@@ -4,6 +4,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚕🚙&fontAlign=70)
 
 <br />
+<div align="center">
+  <p>
+   <h2> 반갑습니다</h2>
+   창의적이고 유연한 역량을 갖추기 위한<br>
+   ✍️규영's github✍️<br>
+  </p>
+</div>
+<hr>
 <div style="text-align: center;">
   <h1 style="font-size: 40px;">📚 STACKS 📚</h1>
 </div>
@@ -77,7 +85,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kky98)](https://solved.ac/kky98)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kky98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kky98&show_icons=true&theme=radical)
+<p>
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=kky98&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kky98&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 </div>
 <!--
 **kky98/kky98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
