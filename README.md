@@ -86,7 +86,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kky98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kky98&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=kky98&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kky98&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 </div>
