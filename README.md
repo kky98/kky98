@@ -78,7 +78,7 @@
 ## 📈Stats📈
 <div style="text-align: center;">
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kky98)](https://solved.ac/kky98)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kky98)](https://solved.ac/kky98) -->
 
 </div>
 
